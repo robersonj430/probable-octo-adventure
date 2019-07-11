@@ -16,3 +16,9 @@ _We are on an adventure!_
 ### Links
 
 HTML links work like this: [Google Link](https://www.google.com)
+
+### Images
+
+We can include images like this:
+
+![Spaghetti Cat](hqdefault.jpg)
